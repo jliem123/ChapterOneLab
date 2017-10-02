@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Simple
+comment0.text=\ 1.\tsimple\ (Why\ do\ you\ even\ have\ to\ change\ the\ name\ of\ the\ file\ in\ this\ case?)\r\n\tAnswer\:\ This\ is\ a\ legal\ identifier\r\n\ \ \ 2.\tSimpleProgram\r\n\tAnswer\:\ This\ is\ a\ legal\ indentifier\r\n\ \ \ 3.\t1Simple\r\n\tAnswer\:\ This\ isn't\ a\ legal\ identifier\r\n\ \ \ 4.\t_Simple_\r\n\tAnswer\:\ This\ is\ a\ legal\ identifier\r\n\ \ \ 5.\t*Simple*\r\n\tAnswer\:\ This\ isn't\ a\ legal\ identifier\r\n\ \ \ 6.\t$123_45\r\n\tAnswer\:\ This\ is\ a\ legal\ identifier\r\n\ \ \ 7.\tSimple\!\r\n\tAnswer\:\ This\ isn't\ a\ legal\ identifier\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
